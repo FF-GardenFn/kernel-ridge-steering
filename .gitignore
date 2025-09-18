@@ -151,3 +151,7 @@ __pypackages__/
 
 # Ruff / lint
 .ruff_cache/
+
+
+# Cache dir marker
+CACHEDIR.TAG
